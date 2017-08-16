@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sesion1Interfaces</string>
+    <string name="registro">Registro</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="regitrar">Registrar</string>
+    <string name="informacion">Información</string>
+    <string name="mail">Correo electrónico</string>
+    <string name="telefono">Telefono</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="sexo">Sexo</string>
+    <string name="cine">Cine</string>
+    <string name="dormir">Dormir</string>
+    <string name="comer">Comer</string>
+    <string name="bailar">Bailar</string>
+    <string name="ciudad">Ciudad</string>
+
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Itagui</item>
+        <item>Envigado</item>
+        <item>Sabaneta</item>
+    </string-array>
+
+</resources>
